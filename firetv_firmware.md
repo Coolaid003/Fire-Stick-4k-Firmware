@@ -15,6 +15,7 @@
 | 2021-05-22 | Fire OS 6.2.8.0 (NS6280/3236) | [update-kindle-mantis-NS6280_user_3236_0005067547780.bin](https://d1s31zyz7dcc2d.cloudfront.net/766591bd4118da76d300a5544ab5e663/update-kindle-mantis-NS6280_user_3236_0005067547780.bin) | 38001a5ad9c1a9ac2eb58d9548cd8b99 |
 | 2021-06-14 | Fire OS 6.2.8.1 (NS6281/3385) | [update-kindle-mantis-NS6281_user_3385_0005604456836.bin](https://d1s31zyz7dcc2d.cloudfront.net/2505e32d634eb38b303e08b3341b0140/update-kindle-mantis-NS6281_user_3385_0005604456836.bin) | fa2a9ad54874bd3d034eefaced2c6e47 |
 | 2021-10-07 | Fire OS 6.2.8.1 (NS6281/4054) | [update-kindle-mantis-NS6281_user_4054_0005940172420.bin](https://d1s31zyz7dcc2d.cloudfront.net/d532a03ab695aa8e202ac929ae48517f/update-kindle-mantis-NS6281_user_4054_0005940172420.bin) | f41a1960fea79c1fac8a04f188a53d0a |
+| 2021-10-15 | Fire OS 6.2.8.1 (NS6281/4061) | [update-kindle-mantis-NS6281_user_4061_0005940174212.bin](https://d1s31zyz7dcc2d.cloudfront.net/e7a9021b6760946b3ac75ff3a312c89b/update-kindle-mantis-NS6281_user_4061_0005940174212.bin) | f841bcf9fb3382407461cf42b69c6b29 |
 
 **Stock apps**
 ================================
