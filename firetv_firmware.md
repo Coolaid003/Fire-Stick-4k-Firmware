@@ -1,3 +1,6 @@
+**FireTV 2nd gen Cube Firmware**
+[github.com/Pro-me3us/raven_firmware](https://github.com/Pro-me3us/raven_firmware)
+
 **Fire TV Stick 4K Firmware**
 ===================================
 | Date | Version | Download | MD5 |
