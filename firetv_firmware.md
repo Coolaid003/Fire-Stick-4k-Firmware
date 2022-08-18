@@ -25,6 +25,7 @@
 | 2022-06-01 | Fire OS 6.2.8.9 (NS6289/3905) | [update-kindle-mantis-NS6289_user_3905_0007013876100.bin](https://d1s31zyz7dcc2d.cloudfront.net/24cafc3106cf6bca59c1d3b0f647e04c/update-kindle-mantis-NS6289_user_3905_0007013876100.bin) | c050a8644784d6fee3357acab03f0249 |
 | 2022-06-22 | Fire OS 6.2.9.0 (NS6290/4021) | [update-kindle-mantis-NS6290_user_4021_0007282341252.bin](https://d1s31zyz7dcc2d.cloudfront.net/e2b726b8ab8e6fe30d7f54625c1b0da0/update-kindle-mantis-NS6290_user_4021_0007282341252.bin) | f6db433d94526a8739d468adb2ce439a |
 | 2022-07-21 | Fire OS 6.2.9.0 (NS6290/4022) | [update-kindle-mantis-NS6290_user_4022_0007282341508.bin](https://d1s31zyz7dcc2d.cloudfront.net/16d1684d4cf2f9a447a9208573d5f8ba/update-kindle-mantis-NS6290_user_4022_0007282341508.bin) | ceebb9fdaba38c5179bc8a5dfb62b778 |
+| 2022-08-15 | Fire OS 6.2.9.1 (NS6291/4110) | [update-kindle-mantis-NS6291_user_4110_0007550799492.bin](https://d1s31zyz7dcc2d.cloudfront.net/e33fd27d0a1cb2aa315a27bb36546b91/update-kindle-mantis-NS6291_user_4110_0007550799492.bin) | 4b3c20617350f0887d3f40e53c0f9d3b |
 
 **Stock apps**
 ================================
@@ -51,6 +52,7 @@
 |  | 2021-12-09 | [v1.9.570.0](https://d1s31zyz7dcc2d.cloudfront.net/34d95559400bcead933b0cb70de2a36e/signed_AriaRuntime-1.9.570.0-standard-universal-release.apk) | 888356b64f0043248c2e9a007df8af27 |
 |  | 2022-03-23 | [v1.9.771.0](https://d1s31zyz7dcc2d.cloudfront.net/052fc79e3a01c29ef03db09c84abe74f/signed_AriaRuntime-1.9.771.0-standard-universal-release.apk) | d58126cdf9cb30050e861e9b0e99ae0c |
 |  | 2022-04-25 | [v1.10.334.0](https://d1s31zyz7dcc2d.cloudfront.net/c5e9a97ead16e216fed59fa456106921/signed_AriaRuntime-1.10.334.0-standard-universal-release.apk) | 09266735e13bbd997cc7b2c20eeff98a |
+|  | 2022-08-16 | [v1.10.841.0](https://d1s31zyz7dcc2d.cloudfront.net/ccd1919c326418a1b70f404a3741b37c/signed_AriaRuntime-1.10.841.0-standard-universal-release.apk) | 76aec33b8ab68ef1f7e9595cb8a91a4a |
 | Alexa Voice Layer | 2020-04-24 | [v1.0.200847.0](https://d1s31zyz7dcc2d.cloudfront.net/f226debdc66f22a4bd5bf9932efde5a1/signed_com.amazon.avl-ftv-release-847.apk) | d052c6020a0207e466140b009f72d6ea |
 | Cloverleaf Runtime | 2020-04-24 | [v267.48101](https://d1s31zyz7dcc2d.cloudfront.net/e176a5e800a439b717863ae0eefdd67b/com.amazon.avod.apk) | 362746f661585bc478c8af8f3073ee70 |
 |  | 2020-09-03 | [v277.37201](https://d1s31zyz7dcc2d.cloudfront.net/74538594022665aeefaac1e2f3457058/com.amazon.avod.apk) | beda18301e273e9ed066c754260d7896 |
@@ -87,6 +89,7 @@
 |  | 2022-07-22 | [v327.11101](https://d1s31zyz7dcc2d.cloudfront.net/75f4a4e8e9687d90295440d7584eaa8b/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_327011110.apk) | 66a10278d44f69692453b2831db3de05 |
 |  | 2022-08-02 | [v328.14901](https://d1s31zyz7dcc2d.cloudfront.net/d410113dedfa5134078e7870e3e04901/com.amazon.avod.apk) | 11f6dd320f5756c92988bc931e402f17 |
 |  | 2022-08-10 | [v328.17301](https://d1s31zyz7dcc2d.cloudfront.net/d0a6ac5b3ee7bce0de013189d9453789/com.amazon.avod.apk) | da9ab0617ecf3957fdc005cdf143a605 |
+|  | 2022-08-16 | [v329.24701](https://d1s31zyz7dcc2d.cloudfront.net/e72a5a4b4f89bd7281efbad3d040487b/com.amazon.avod.apk) | 61732bd438a0cee8cbe07e749b7f5dac |
 | Amazon Music | 2020-08-28 | [v3.3.446.0](https://d1s31zyz7dcc2d.cloudfront.net/35d445c8d5d707e0cfc17432c9fc3607/signed_DMTVAndroid-firetv-prod-release.apk) | 7d9ed8bf24523d633c8ec1f33da86bb0 |
 |  | 2020-10-22 | [v3.3.486.0](https://d1s31zyz7dcc2d.cloudfront.net/45b1eb952dbdab61dc944ea743f98af7/signed_DMTVAndroid-firetv-prod-arm32-release_3_3_486_0.apk) | eb54e884966d3ab12b2318267505ce73 |
 |  | 2020-12-10 | [v3.3.581.0](https://d1s31zyz7dcc2d.cloudfront.net/588a9854a6974ba4a80aa4c2c5a5f1db/signed_DMTVAndroid-firetv-prod-arm32-release_335810.apk) | f638102d312e20323b8b501904493c31 |
@@ -321,6 +324,7 @@
 |  | 2021-10-05 | [v1.0.3444.0](https://d1s31zyz7dcc2d.cloudfront.net/3fb9d31141638a2bfd065f6e248a84d0/signed_FireTvSettings-jarvis-release-1.0.3444.0.apk) | 77857242f48bc6e3e0747687f8f8f0ce |
 |  | 2022-05-21 | [v1.0.4941.0](https://d1s31zyz7dcc2d.cloudfront.net/cd185f28014810a3df62bd2faf665661/signed_FireTvSettings-jarvis-release-1.0.4941.0.apk) | b5daa567b5caeb560502ffa55e2a36ce |
 |  | 2022-07-22 | [v1.0.5210.0](https://d1s31zyz7dcc2d.cloudfront.net/dc9911d658ddad28068d91553825c3ab/signed_FireTvSettings-jarvis-release1.0.5210.0.apk) | 42fc1553fec55db45fd2cea2ab489bba |
+|  | 2022-08-16 | [v1.0.5579.0](https://d1s31zyz7dcc2d.cloudfront.net/626d9f707554433f08e98728a25db9de/signed_FireTvSettings-jarvis-release_1.0.5579.0.apk) | e756258030e520f4508ab4d58335c121 |
 | Turnstile | 2020-10-13 | [v1010017.1](https://d1s31zyz7dcc2d.cloudfront.net/70db40b7d5b5a8a6e858adbd07f5bfd0/com.amazon.tv.turnstile.apk) | fab486658e0ee345241978b186d986c8 |
 |  | 2020-12-07 | [v1020002.1](https://d1s31zyz7dcc2d.cloudfront.net/bbbccac6323d50eeb7427c595938edc3/com.amazon.tv.turnstile.apk) | fcce729b58c9323be4507fdd78b328d8 |
 |  | 2021-03-06 | [v1030006.1](https://d1s31zyz7dcc2d.cloudfront.net/f9dffa86c32c4d21c9fc519298fb5e3d/com.amazon.tv.turnstile_4.apk) | 813d0373ab6a3b4ee0b1f81e099224b2 |
@@ -358,6 +362,7 @@
 |  | 2022-01-14 | [v2.0.15189.0](https://d1s31zyz7dcc2d.cloudfront.net/c738bf58fb6bff358ae6465452753a6e/signed_com.amazon.vizzini.apk) | 7ff529fec97471df25d4d742762d5fb4 |
 |  | 2022-02-23 | [v2.0.15514.0](https://d1s31zyz7dcc2d.cloudfront.net/8a5c0fca3ac8b77a26ae62415a88b29e/signed_com.amazon.vizzini_2.apk) | 9f142c944d3a58f654250567ee17940e |
 |  | 2022-05-20 | [v3.0.757.0](https://d1s31zyz7dcc2d.cloudfront.net/954be8e78de83210db35f1db2318404c/signed_com.amazon.vizzini43.apk) | da882a40ed60b5f59b3efebebcd3181f |
+|  | 2022-08-15 | [v3.0.2150.0](https://d1s31zyz7dcc2d.cloudfront.net/f4ccdba625951918215e5e390a0d6293/signed_FTVSIM-release-646-hotfix.apk) | 048db9d38b53dc81cc010d270c789578 |
 | Chromium | 2020-09-03 | [v75-206-3770.143.217](https://d1s31zyz7dcc2d.cloudfront.net/04d053037f9b5879a20c882a19a7fccb/AmazonWebView-release-32-signed.apk) | 795a7de431c1eb3e69d664f81f9452c1 |
 |  | 2020-11-11 | [v84-154-Bulbasaur.4147.111.176](https://d1s31zyz7dcc2d.cloudfront.net/c04c95d571e503ea9b2f7f531426a988/AmazonWebView-release-32-signed.apk) | 1e1092f446977dab916d911c37dded41 |
 |  | 2021-01-22 | [v84-187-Ivysaur.4147.111.190](https://d1s31zyz7dcc2d.cloudfront.net/3a47fbb7a412933152208355556abcf1/AmazonWebView-release-32-signed_1.apk) | 70752a11ad99c89b50b355e8380bf8d7 |
