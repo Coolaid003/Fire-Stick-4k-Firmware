@@ -96,6 +96,7 @@
 |  | 2022-09-15 | [v331.19901](https://d1s31zyz7dcc2d.cloudfront.net/eef3372ddbc4b8747db25b2077543657/com.amazon.avod.apk) | 13935f9352befc40b32a947ecf84b445 |
 |  | 2022-09-20 | [v331.29701](https://d1s31zyz7dcc2d.cloudfront.net/f901e4f2fed2eecf9f093ac1cd6a206e/com.amazon.avod.apk) | 0d9f78627c91703a581f13f732fe0e3c |
 |  | 2022-10-01 | [v332.20801](https://d1s31zyz7dcc2d.cloudfront.net/ce9aa7ceddddad46ea325bfc847d7258/com.amazon.avod.apk) | 6a40541f86ad172745fe197458a0156e |
+|  | 2022-10-21 | [v333.23101](https://d1s31zyz7dcc2d.cloudfront.net/8cdb391137434f65d934916591824ce4/com.amazon.avod.apk) | 999fca7742bd58eaa4ce9451071429e2 |
 | Amazon Music | 2020-08-28 | [v3.3.446.0](https://d1s31zyz7dcc2d.cloudfront.net/35d445c8d5d707e0cfc17432c9fc3607/signed_DMTVAndroid-firetv-prod-release.apk) | 7d9ed8bf24523d633c8ec1f33da86bb0 |
 |  | 2020-10-22 | [v3.3.486.0](https://d1s31zyz7dcc2d.cloudfront.net/45b1eb952dbdab61dc944ea743f98af7/signed_DMTVAndroid-firetv-prod-arm32-release_3_3_486_0.apk) | eb54e884966d3ab12b2318267505ce73 |
 |  | 2020-12-10 | [v3.3.581.0](https://d1s31zyz7dcc2d.cloudfront.net/588a9854a6974ba4a80aa4c2c5a5f1db/signed_DMTVAndroid-firetv-prod-arm32-release_335810.apk) | f638102d312e20323b8b501904493c31 |
