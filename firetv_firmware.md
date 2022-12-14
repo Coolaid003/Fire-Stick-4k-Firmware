@@ -28,6 +28,7 @@
 | 2022-08-15 | Fire OS 6.2.9.1 (NS6291/4110) | [update-kindle-mantis-NS6291_user_4110_0007550799492.bin](https://d1s31zyz7dcc2d.cloudfront.net/e33fd27d0a1cb2aa315a27bb36546b91/update-kindle-mantis-NS6291_user_4110_0007550799492.bin) | 4b3c20617350f0887d3f40e53c0f9d3b |
 | 2022-10-11 | Fire OS 6.2.9.2 (NS6292/4226) | [update-kindle-mantis-NS6292_user_4226_0008020591236.bin](https://d1s31zyz7dcc2d.cloudfront.net/6eaf4b8967af7f719555b1adf2b4b1a3/update-kindle-mantis-NS6292_user_4226_0008020591236.bin) | f1d7488baadf041b96caf7a50e1186d4 |
 | 2022-10-12 | Fire OS 6.2.9.3 (NS6293/4731) | [update-kindle-mantis-NS6293_user_4731_0008222047108.bin](https://d1s31zyz7dcc2d.cloudfront.net/6b9c20c179d418902b847bab6d87a694/update-kindle-mantis-NS6293_user_4731_0008222047108.bin) | 35dd0384e3b8b930b00f5117022160ac |
+| 2022-11-18 | Fire OS 6.2.9.4 (NS6294/4339) | [update-kindle-mantis-NS6294_user_4339_0008356164484.bin](https://d1s31zyz7dcc2d.cloudfront.net/dcac621f9d94c1992980e2c3d5098f16/update-kindle-mantis-NS6294_user_4339_0008356164484.bin) | 1855decbe702d1641caaed7a33578ae4 |
 
 **Stock apps**
 ================================
