@@ -29,6 +29,7 @@
 | 2022-10-11 | Fire OS 6.2.9.2 (NS6292/4226) | [update-kindle-mantis-NS6292_user_4226_0008020591236.bin](https://d1s31zyz7dcc2d.cloudfront.net/6eaf4b8967af7f719555b1adf2b4b1a3/update-kindle-mantis-NS6292_user_4226_0008020591236.bin) | f1d7488baadf041b96caf7a50e1186d4 |
 | 2022-10-12 | Fire OS 6.2.9.3 (NS6293/4731) | [update-kindle-mantis-NS6293_user_4731_0008222047108.bin](https://d1s31zyz7dcc2d.cloudfront.net/6b9c20c179d418902b847bab6d87a694/update-kindle-mantis-NS6293_user_4731_0008222047108.bin) | 35dd0384e3b8b930b00f5117022160ac |
 | 2022-11-18 | Fire OS 6.2.9.4 (NS6294/4339) | [update-kindle-mantis-NS6294_user_4339_0008356164484.bin](https://d1s31zyz7dcc2d.cloudfront.net/dcac621f9d94c1992980e2c3d5098f16/update-kindle-mantis-NS6294_user_4339_0008356164484.bin) | 1855decbe702d1641caaed7a33578ae4 |
+| 2023-02-17 | Fire OS 6.2.9.5 (NS6295/4448) | [update-kindle-mantis-NS6295_user_4448_0008557518980.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/25cf3039c711e5c84692c68bfa71350e/update-kindle-mantis-NS6295_user_4448_0008557518980.bin) | 43fdedf59cf80ad7c265c1e3e6bc263e |
 
 **Stock apps**
 ================================
@@ -221,6 +222,7 @@
 | Game Hub | 2022-10-20 | [v1.0.735.0](https://d1s31zyz7dcc2d.cloudfront.net/fe039c6abb0b0300926d0d992fa45c37/735.0-GameHubAPK-tv-release-signed_1042710.apk) | b6b5467b8ac9bb2968c0dd8e9f475801 |
 |  | 2022-11-08 | [v1.0.767.0](https://d1s31zyz7dcc2d.cloudfront.net/d71f3befc625aab102ee5ddc1ba218eb/767.0-GameHubAPK-tv-release-signed_1044510.apk) | 8b5171d8304f7c1f2e5ad0edd28b7ede |
 |  | 2023-01-18 | [v1.0.971.0](https://d1s31zyz7dcc2d.cloudfront.net/4605a378e62b4c1c95dbae413adc147b/signed_GameHubAPK-tv-release-971.apk) | c4c692fc8fa21ff77d8a48b2333dbe3a |
+|  | 2023-02-12 | [v1.0.1221.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/8052348700f41a73ec35196a21610db0/signed_GameHubAPK-tv1221-release.apk) | 1d6af575fb7a8b809f6c82508276a77a |
 | Multimodal SmartHome | 2020-04-24 | [v1.0.203389.0](https://d1s31zyz7dcc2d.cloudfront.net/e46718fa32b84a84019283babb615c3a/SmartHomeGloria-mdpi-release-signed.apk) | fdd60897c284daf8a8eefb7364b5ce85 |
 |  | 2020-08-18 | [v1.0.204281.0](https://d1s31zyz7dcc2d.cloudfront.net/990ddb40f2184d3de8ef3f56861dbb6f/SmartHomeGloria-mdpi-release-signed.apk) | 19321b81b0515e45a4e953248c626d96 |
 |  | 2020-08-28 | [v1.0.204315.0](https://d1s31zyz7dcc2d.cloudfront.net/fbbba8af4cde8cf8f89398028eb3d01e/SmartHomeGloria-mdpi-release-signed.apk) | 499d490732d9d843249280914832675b |
@@ -311,6 +313,8 @@
 |  | 2022-10-27 | [v3.11](https://d1s31zyz7dcc2d.cloudfront.net/0ba996ef7b66a2323d8aa331a154cce0/com.amazon.tahoe.311052110.apk) | eed2af6ec940c58c638e60b565b1e419 |
 |  | 2022-11-19 | [v3.16](https://d1s31zyz7dcc2d.cloudfront.net/93d0e1910c1fcc258581e8366a066a65/signed_FreeTimeFTVApp-release_QuakerOats_Rollback.apk) | 405a2b09f9b6536580bbe1acfecea95f |
 |  | 2023-01-05 | [v3.16](https://prod.ota-cloudfront.net/93d0e1910c1fcc258581e8366a066a65/signed_FreeTimeFTVApp-release_QuakerOats_Rollback.apk) | 405a2b09f9b6536580bbe1acfecea95f |
+|  | 2023-01-31 | [v3.17](https://d1s31zyz7dcc2d.cloudfront.net/fc418ee1fb1d5548bc1723840ff33678/user_com.amazon.tahoe.apk) | a20f3f2fb3262cc847fe21f4a891cbdb |
+|  | 2023-02-12 | [v3.17](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/fc418ee1fb1d5548bc1723840ff33678/user_com.amazon.tahoe.apk) | a20f3f2fb3262cc847fe21f4a891cbdb |
 | Fire TV Alexa Alerts | 2020-04-24 | [v1.0.200774.0](https://d1s31zyz7dcc2d.cloudfront.net/7a5f5f41f620358e86a42e0502a1e0c9/signed_FireTvAlexaAlerts-nonStark-release.apk) | dd7c5deecba356ad300011d2c3e43034 |
 | Fire TV Device Control | 2020-04-24 | [v1.0.205629.0](https://d1s31zyz7dcc2d.cloudfront.net/e661f32627f5debe793ac481105925fa/FireTV_DeviceControl-release-signed.apk) | aab789f6e2c8ac72eff5db7a420e810b |
 |  | 2020-09-03 | [v1.0.207983.0](https://d1s31zyz7dcc2d.cloudfront.net/7dfab9016a594f5ed01f1f62621cdc60/FireTV_DeviceControl-release-signed_3.apk) | 906c598a3a8286664d9b013cfd93e23a |
