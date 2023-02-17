@@ -388,12 +388,14 @@
 |  | 2022-07-21 | [v1.0.6151.0](https://d1s31zyz7dcc2d.cloudfront.net/9d8f84000ce76de542462252485c6b84/signed_FireTvOobe-jarvis-release1.apk) | e90b03bcfadad81898c5faf7d72d741c |
 |  | 2022-09-01 | [v1.0.6460.0](https://d1s31zyz7dcc2d.cloudfront.net/1280b8179678dc072c1bcb9503a5c5e9/signed_FireTvOobe-jarvis-release_1.0.6460.0_GM_Oakwood.apk) | 78648873671d85927440ee7797e67b33 |
 |  | 2022-12-16 | [v1.0.7367.0](https://d1s31zyz7dcc2d.cloudfront.net/df80ff2ecd01628c528af8bf96b26b38/signed_FireTvOobe-jarvis-release-1.0.7367.0.apk) | 17af3fb9a59ed101ae1c006b3bdfa905 |
+|  | 2023-02-17 | [v1.0.7718.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/6bbcbf75a40ffca2d25e602c7ff9c44c/signed_FireTvOobe-jarvis-release1.0.7718.0.apk) | 88ee6ab7772c4784b036835b600cc335 |
 | Ott Sso Companion App | 2020-04-24 | [v1.0](https://d1s31zyz7dcc2d.cloudfront.net/aaa109d081daf440158d4bf71f794ae6/TO_PROD_app-tv-release-signed.apk) | ce6ea5fd63c312c80daa34ede2f987e1 |
 | Parental Controls | 2020-10-16 | [v1.0.565.0](https://d1s31zyz7dcc2d.cloudfront.net/bf8b61fa4e2ebe2c5f4c9d8179e072c2/signed_FireTvParentalControls-release6.apk) | caef692203c3f9cf533a005f8fc594de |
 |  | 2020-12-16 | [v1.0.630.0](https://d1s31zyz7dcc2d.cloudfront.net/c955501769edded1667b05ead17273f8/signed_FireTvParentalControls-release.apk) | b90769ce19967711e2e3f55175cd4e43 |
 |  | 2021-10-05 | [v1.0.1000.0](https://d1s31zyz7dcc2d.cloudfront.net/46d00e068d20113dc42e6a7a3f5ff75f/FireTvParentalControls-jarvis-release-signed-1.0.1000.0.apk) | 35b032f7c5bbb06f34dffd5fc09bfccb |
 |  | 2022-04-21 | [v1.0.1283.0](https://d1s31zyz7dcc2d.cloudfront.net/ae618f5e3ba2083dc040dd1762ec28a6/FireTvParentalControls-jarvis-release-signed-1.0.1283.0.apk) | eea0c5da354b97e84ef4f8c9d8fc4862 |
 | Release Notes | 2021-07-23 | [v1.0.706.0](https://d1s31zyz7dcc2d.cloudfront.net/ff1b908f13fba6e0e5f152f46b7c8415/signed_FireTvReleaseNotes-jarvis-release-juv.apk) | 5dd89d795f42177af5041c0d47a98cf6 |
+|  | 2023-02-17 | [v1.0.949.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/06d9089ac002c8ca75d448d6f013b5df/signed_FireTvReleaseNotes-jarvis-release-1.0.949.0.apk) | f71d35419440421a431e3aab614ab0fd |
 | Settings | 2020-09-25 | [v1.0.1503.0](https://d1s31zyz7dcc2d.cloudfront.net/9e7f3dbb5cbc4bc05773b53b77e56958/signed_FireTvSettings-release3.apk) | a817760b4e20b406352bac529b781b87 |
 |  | 2020-12-16 | [v1.0.1916.0](https://d1s31zyz7dcc2d.cloudfront.net/04f7c5810b89a75356536407c524dc66/signed_FireTvSettings-release.apk) | 226efea0d61b3023f69512030d4d5b32 |
 |  | 2021-07-17 | [v1.0.2582.0](https://d1s31zyz7dcc2d.cloudfront.net/4ce1d02586742f6650131e9d1aa399ad/signed_FireTvSettings-jarvis-release-juv.apk) | 32d5f51683cf55fa92246712c8575a14 |
