@@ -115,6 +115,7 @@
 |  | 2023-03-16 | [v341.20701](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/aa6a362df5b53af173840df5eec439fc/com.amazon.avod.apk) | 10c5ddb3e3bdce686d6a4fa330e8016d |
 |  | 2023-03-24 | [v342.11701](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/643f13545d8070af4b6e56de4a99395b/com.amazon.avod.apk) | 9503da74218e996eb2cab7092f7df358 |
 |  | 2023-04-06 | [v343.82901](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/86209bd1dab04c480977f72b0c7a149b/com.amazon.avod.apk) | 30be0d9b19ecb2f14966bee3d32740c3 |
+|  | 2023-04-25 | [v344.101901](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/1c9e57d904d8572f1d76c6799a5c87f7/com.amazon.avod.apk) | 476178552b8dc2adef056eaedcd46a55 |
 | Amazon Music | 2020-08-28 | [v3.3.446.0](https://d1s31zyz7dcc2d.cloudfront.net/35d445c8d5d707e0cfc17432c9fc3607/signed_DMTVAndroid-firetv-prod-release.apk) | 7d9ed8bf24523d633c8ec1f33da86bb0 |
 |  | 2020-10-22 | [v3.3.486.0](https://d1s31zyz7dcc2d.cloudfront.net/45b1eb952dbdab61dc944ea743f98af7/signed_DMTVAndroid-firetv-prod-arm32-release_3_3_486_0.apk) | eb54e884966d3ab12b2318267505ce73 |
 |  | 2020-12-10 | [v3.3.581.0](https://d1s31zyz7dcc2d.cloudfront.net/588a9854a6974ba4a80aa4c2c5a5f1db/signed_DMTVAndroid-firetv-prod-arm32-release_335810.apk) | f638102d312e20323b8b501904493c31 |
@@ -376,6 +377,7 @@
 |  | 2022-04-21 | [v1.0.211138.0](https://d1s31zyz7dcc2d.cloudfront.net/8755c6ffbe8c8c4e2548e37197ef0d2a/211138_FireTV_DeviceControl-release-signed.apk) | 035b6f57849fa979a4227b47fc489cb4 |
 |  | 2022-09-15 | [v1.0.212082.0](https://d1s31zyz7dcc2d.cloudfront.net/eb0802c6aef9c7f92b33210eb1fc1a80/212082_FireTV_DeviceControl-release-signed.apk) | 0f83eed13518dc580c8aae9a83546b6e |
 |  | 2023-03-15 | [v1.0.212926.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/74979906d1cdc46d50372c0990ef4af6/212926_FireTV_DeviceControl-release-signed.apk) | 212660f064f19efde43b1ade69e8d39f |
+|  | 2023-04-28 | [v1.0.213028.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/174a3689f661e4b313ff8602d9addb64/213028_FireTV_DeviceControl-release-signed.apk) | bd614e9d3acd7c2033c8f17089b5e022 |
 | Equipment Control | 2020-04-24 | [v1.0.1983.0](https://d1s31zyz7dcc2d.cloudfront.net/05737ad7589f9297c6a0ddddf4e00f63/FireTV_DeviceControlSettings-release-signed.apk) | a4d4d6b3ed8198f2a7ef29aebac710ec |
 |  | 2020-09-17 | [v1.0.5600.0](https://d1s31zyz7dcc2d.cloudfront.net/f7f0fbd084d4fb47a7cb2d5bed64dead/FireTV_DeviceControlSettings-release-signed.apk) | 53c2b53b5c305d1d97c8602efc83864f |
 |  | 2020-11-17 | [v1.0.6161.0](https://d1s31zyz7dcc2d.cloudfront.net/a2e2b525d84deb51ccda4c6899205de9/FireTV_DeviceControlSettings-caltrain-release-signed1.apk) | 8d44944c089e80bfa178837a0b94e0e5 |
@@ -450,6 +452,7 @@
 |  | 2020-12-16 | [v1.0.630.0](https://d1s31zyz7dcc2d.cloudfront.net/c955501769edded1667b05ead17273f8/signed_FireTvParentalControls-release.apk) | b90769ce19967711e2e3f55175cd4e43 |
 |  | 2021-10-05 | [v1.0.1000.0](https://d1s31zyz7dcc2d.cloudfront.net/46d00e068d20113dc42e6a7a3f5ff75f/FireTvParentalControls-jarvis-release-signed-1.0.1000.0.apk) | 35b032f7c5bbb06f34dffd5fc09bfccb |
 |  | 2022-04-21 | [v1.0.1283.0](https://d1s31zyz7dcc2d.cloudfront.net/ae618f5e3ba2083dc040dd1762ec28a6/FireTvParentalControls-jarvis-release-signed-1.0.1283.0.apk) | eea0c5da354b97e84ef4f8c9d8fc4862 |
+|  | 2023-04-28 | [v1.0.1703.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/469b110caa5d38540d3c4eb2eab8515d/signed_FireTvParentalControls-jarvis-release_1.0.1703.0_otarelease.apk) | 15a6c7319980a2de7f2b5caa4be4e168 |
 | Release Notes | 2021-07-23 | [v1.0.706.0](https://d1s31zyz7dcc2d.cloudfront.net/ff1b908f13fba6e0e5f152f46b7c8415/signed_FireTvReleaseNotes-jarvis-release-juv.apk) | 5dd89d795f42177af5041c0d47a98cf6 |
 |  | 2023-02-17 | [v1.0.949.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/06d9089ac002c8ca75d448d6f013b5df/signed_FireTvReleaseNotes-jarvis-release-1.0.949.0.apk) | f71d35419440421a431e3aab614ab0fd |
 | Settings | 2020-09-25 | [v1.0.1503.0](https://d1s31zyz7dcc2d.cloudfront.net/9e7f3dbb5cbc4bc05773b53b77e56958/signed_FireTvSettings-release3.apk) | a817760b4e20b406352bac529b781b87 |
