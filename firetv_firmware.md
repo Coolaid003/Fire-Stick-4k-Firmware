@@ -33,6 +33,7 @@
 | 2023-04-15 | Fire OS 6.2.9.6 (NS6296/4554) | [update-kindle-mantis-NS6296_user_4554_0008893090436.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/f2adbf81848de055a4a3c65e3e388188/update-kindle-mantis-NS6296_user_4554_0008893090436.bin) | 328ddc3ce099b9b83e6257d7de338838 |
 | 2023-05-15 | Fire OS 6.2.9.6 (NS6296/4555) | [update-kindle-mantis-NS6296_user_4555_0008893090692.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/10e04f4f62211c609bd6fcefc9426c00/update-kindle-mantis-NS6296_user_4555_0008893090692.bin) | 08d8de3f643e5336c42d03d767bf9e1c |
 | 2023-06-01 | Fire OS 6.2.9.7 (NS6297/4655) | [update-kindle-mantis-NS6297_user_4655_0009161551748.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/ac1e801ee54530ef10bc10c1af1c6c97/update-kindle-mantis-NS6297_user_4655_0009161551748.bin) | 4402789030390ee92dd71191906e305a |
+| 2023-10-24 | Fire OS 6.7.0.0 (NS6700/4872) | [update-kindle-mantis-NS6700_user_4872_0009631369348.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/f9f39daa95c86f3a4647adbc7bb62612/update-kindle-mantis-NS6700_user_4872_0009631369348.bin) | 7f0bec1a7e501920fe753e3f9eb07d8f |
 
 **Stock apps**
 ================================
