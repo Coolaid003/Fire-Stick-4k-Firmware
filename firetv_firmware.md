@@ -43,8 +43,10 @@
 |  | 2020-10-14 | [v2019.3.0](https://d1s31zyz7dcc2d.cloudfront.net/abe931e7be238153f9f46e05632d4db3/ACAFireTVAndroidClient-fos5-release-signed_800.apk) | 20d944531a97fa8fd372aff69262cea7 |
 |  | 2020-11-14 | [v2019.3.0](https://d1s31zyz7dcc2d.cloudfront.net/a0ba0bf6d9f8bfda334b85c796c667e7/ACAFireTVAndroidClient-fos5-release-signed_836.apk) | 66e7b592c7823fad22e1ddc27ea2b449 |
 |  | 2021-11-27 | [v2019.3.0](https://d1s31zyz7dcc2d.cloudfront.net/334c93fd023f060211b99f7d43738edb/ACAFireTVAndroidClient-fos5-release-signed1179.apk) | f2be55b87ecec06cd2428fe091ab503f |
+|  | 2023-10-24 | [v2019.3.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/6dca8a9c1482a47917a2e910bcb650e2/com.amazon.aca.apk) | 876a39fa2846d5727e8455973b99baf9 |
 | ASAdsAIOnDeCService | 2023-02-17 | [v1.0.217.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/37c61da48db0139f50c9f453ec08cbc9/ASAdsAIOnDeCService-1.0.217.0-release-signed.apk) | 1c7a1a66e2dabe2836a448e3ca1804c9 |
 |  | 2023-03-03 | [v1.0.315.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/a2460a1ef722b4262ad5993efc5f65b1/signed_ASAdsAIOnDeCService-1.0.315.0-release.apk) | 3c02064476691a0f6430c4dd3c1adc2f |
+|  | 2023-10-24 | [v1.0.385.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/5952634803d1f297dca2e1f9ae7d7c0f/signed_ASAdsAIOnDeCService-1.0.385.0-release.apk) | ba4a603a0418d887b169273e62de7eee |
 | Alexa Media Controller | 2021-03-17 | [v1.0.856.0](https://d1s31zyz7dcc2d.cloudfront.net/b8ecce879b0d4d6e63544b7d4c9e41e8/com.amazon.alexa.externalmediaplayer.fireos-1271610.apk) | adc46b32a77d9d8088c76d51fce057b7 |
 | Alexa Media Player | 2021-06-09 | [v1.0.2901.0](https://d1s31zyz7dcc2d.cloudfront.net/06f18d30e3c0be366c092c56663f8b51/signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release.apk) | 8211773023df53e2feaeb854bfa89c57 |
 |  | 2021-09-16 | [v1.0.3957.0](https://d1s31zyz7dcc2d.cloudfront.net/9a5671736dd51190b5797c1b6982b194/signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release.apk) | 26e301188fefaaa766cfd8a7cef6360d |
@@ -53,6 +55,7 @@
 |  | 2022-09-26 | [v1.0.11045.0](https://d1s31zyz7dcc2d.cloudfront.net/749a4ae5382760432196051588e30ec6/signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release.apk) | 21856c956b8de3e040b6758d0061091c |
 |  | 2023-04-23 | [v1.0.17317.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/8d8335ee23f6d41b4b50142f0d96523b/signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release_2.apk) | ac3fecaad013c911444a4bf7586e5e78 |
 |  | 2023-07-01 | [v1.0.18506.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/229a7cf7c9bb566022c07c79fe24ec32/signed_AlexaMediaPlayer-Android-Runtime-FTV-xhdpiArmeabi-v7a-release_AMPR-58.apk) | f08fd0fefd2cdabc32a834d18f3044b8 |
+|  | 2023-10-24 | [v1.0.26095.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2fa2609009b81d8462109bfab308a191/signed_AMPR-FTV-xhdpiArmeabi-v7a-release-1.0.26095.0.apk) | a16202645d716890d2e2ed831efa4cfb |
 | Alexa Shopping | 2022-09-26 | [v2.0.147.0](https://d1s31zyz7dcc2d.cloudfront.net/539164335c11ca0caa3360651d6c340d/signed_AlexaShoppingOnFireTV-release_RC1.apk) | eaad5890a4106b9eb3b68df952fc6c34 |
 | Aria | 2020-09-03 | [v1.3.119.0](https://d1s31zyz7dcc2d.cloudfront.net/444a5db261124bac698f9aa35e297881/signed_AriaRuntime-1.3.119.0-release.apk) | cc8aaf883678f2f486f94461bc028d9a |
 |  | 2020-09-03 | [v1.4.44.0](https://d1s31zyz7dcc2d.cloudfront.net/cf74facda09d239d7eabb25cb96e8b1e/signed_AriaRuntime-1.4.44.0-release.apk) | e481bd9f0f8a2a30dda9e45881236c9c |
@@ -124,6 +127,7 @@
 |  | 2023-05-17 | [v346.15101](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/26d0837d4b2c0a5c3085f436cc0c5cff/com.amazon.avod.apk) | 3611b6ad34871865febf1c139c5f6158 |
 |  | 2023-05-26 | [v347.11201](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/714db7b3e4474c7bf7370c70c5698b27/com.amazon.avod.apk) | 37cf7b8e251db4a7a4ad8acff76ac08a |
 |  | 2023-07-01 | [v348.23701](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/4a2434f6d33eee8ece5da9a3397795d8/com.amazon.avod.apk) | 719787f31fd72a6a080d89f7e1e7d386 |
+|  | 2023-10-24 | [v356.505601](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/fe865172a255ca314722c658af1cf325/com.amazon.avod.apk) | ceb1955049651d838393a2e3f3b80ea4 |
 | Amazon Music | 2020-08-28 | [v3.3.446.0](https://d1s31zyz7dcc2d.cloudfront.net/35d445c8d5d707e0cfc17432c9fc3607/signed_DMTVAndroid-firetv-prod-release.apk) | 7d9ed8bf24523d633c8ec1f33da86bb0 |
 |  | 2020-10-22 | [v3.3.486.0](https://d1s31zyz7dcc2d.cloudfront.net/45b1eb952dbdab61dc944ea743f98af7/signed_DMTVAndroid-firetv-prod-arm32-release_3_3_486_0.apk) | eb54e884966d3ab12b2318267505ce73 |
 |  | 2020-12-10 | [v3.3.581.0](https://d1s31zyz7dcc2d.cloudfront.net/588a9854a6974ba4a80aa4c2c5a5f1db/signed_DMTVAndroid-firetv-prod-arm32-release_335810.apk) | f638102d312e20323b8b501904493c31 |
@@ -146,6 +150,7 @@
 |  | 2023-01-05 | [v3.4.706.0](https://prod.ota-cloudfront.net/e7ff28104030d6e54061ad8350643c58/signed_DMTVAndroid-firetv-prod-arm32-3.4.706.0.apk) | f44c3af91a43bed8764413f5fdba3118 |
 |  | 2023-02-17 | [v3.4.733.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/60b84a1d4b1f8022757373dee70fffd1/signed_DMTVAndroid-firetv-prod-arm32-3.4.733.0.apk) | d38b800d91cb5ff3fa6acfb48b2dda8f |
 |  | 2023-05-24 | [v3.4.947.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/03626885adcda19c30a275e2f0f88c94/signed_DMTVAndroid-firetv-prod-3.4.947.0-release.apk) | 4934a310742297d81a7831accb472bbd |
+|  | 2023-10-24 | [v3.4.1311.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/c4a39777670f5ba320ba9fea084ad2ac/signed_DMTVAndroid-firetv-prod-arm32-rel-3.4.1311.apk) | 4633045f87da5d0d124a67df9d7949ae |
 | Amazon Photos | 2020-04-24 | [v2.11.0](https://d1s31zyz7dcc2d.cloudfront.net/cc83aa073910a7f38b6d9b4c0d7624a7/signed_Gallery-4.0.0.1021-fireTvRelease-armeabi-v7a.apk) | d4550756d4881b2f8aa7fbaad21f6b2d |
 |  | 2020-08-17 | [v2.12.1](https://d1s31zyz7dcc2d.cloudfront.net/a02c5a88e75fa0eb966ba24eb95495f9/signed_Gallery-4.0.0.1614-fireTvRelease-armeabi-v7a.apk) | 867ea38c58473ea2e3de1d487bacdc9d |
 |  | 2022-04-21 | [v2.14.0](https://d1s31zyz7dcc2d.cloudfront.net/deefaf17cff14a2c0da5ddfff601aa18/com.amazon.bueller.photos.apk) | e4479ac50b4956f9ee5b65720839cfd9 |
@@ -173,6 +178,7 @@
 |  | 2020-10-09 | [v1.1.27.0](https://d1s31zyz7dcc2d.cloudfront.net/76673cc9445351928ccb0103e826ce70/signed_CommonSpeechMiddleware_HtmlRuntime-release.apk) | d0702a0703369983f1dd99ee397614e9 |
 |  | 2021-01-22 | [v1.1.73.0](https://d1s31zyz7dcc2d.cloudfront.net/83b12df0c9efe8f892faf0454bd1103c/signed_1234910.apk) | 0a694c5ce73c1b46e108d980f39468e8 |
 |  | 2022-07-28 | [v1.1.337.0](https://d1s31zyz7dcc2d.cloudfront.net/3c6d9b0f6e411fb3cb78348cc67a1995/signed_CommonSpeechMiddleware_HtmlRuntime-release-1.1.337.0.apk) | f7cae7ee10759a5fcbe8b3d8160ad8d1 |
+| Low Storage Manager | 2023-10-24 | [v1.0.251.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/073c71de755e90dece59d032cc790758/signed_Fos6FireTVLowStorageManager-release.apk) | 530c44fb6a1eaf6ddbeb053b0e33c44a |
 | DIAL service | 2020-08-25 | [v1.0.100038.00](https://d1s31zyz7dcc2d.cloudfront.net/8ccb12d29e40cfc23597d1647bac5381/DialService.apk) | 33f12d042c0ff848f33aafdeb130e7b7 |
 |  | 2022-11-17 | [v1.0.100053.00](https://d1s31zyz7dcc2d.cloudfront.net/8dfd7f1fa246c1797d5bc0f081090bed/DialService.apk) | f6d20867031f2640b976a631ec0c6698 |
 |  | 2023-01-05 | [v1.0.100053.00](https://prod.ota-cloudfront.net/8dfd7f1fa246c1797d5bc0f081090bed/DialService.apk) | f6d20867031f2640b976a631ec0c6698 |
@@ -232,6 +238,7 @@
 |  | 2023-05-15 | [v58.1977](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/4cbe9b450a45982613b553e868de846c/Firebat-livingRoom-release-signed_58197710.apk) | d92d51ebc170a7ee99865192b024a662 |
 |  | 2023-05-20 | [v59.1786](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/75ba56748e2990149390b5ee54c71017/Firebat-livingRoom-release-signed_59178610.apk) | 86c0267b2074e477f71203a55b9786a0 |
 |  | 2023-07-01 | [v62.1573](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/7d111e8d3e9cd90045b62ee011d7a9e6/Firebat-livingRoom-release-signed_62157310.apk) | 43689b522f02a40242ff31aa866f9a6a |
+|  | 2023-10-24 | [v68.0084](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2023/10/12/8dbcc7dc-c725-48c5-8e45-761d4cda1d63/1697138746854-Firebat-livingRoom-release-signed_68008410.apk) | 3cd8ddad1ae8989143f25ccb0d814de0 |
 | Gloria | 2020-04-24 | [v1.0.201462.0](https://d1s31zyz7dcc2d.cloudfront.net/6ba9a31b4a1df897c4101738852b3b43/com.amazon.ftv.glorialist.apk) | 2e1942c6666b91b64bbb442bd12a6d4e |
 | Profile Picker | 2021-09-21 | [v1.0.3](https://d1s31zyz7dcc2d.cloudfront.net/7ab2174d0210d78b0f193cf0eef6af19/com.amazon.ftv.profilepicker_1030016.apk) | d3eb57065a1448d47c41ba4e51e252f8 |
 | Screensaver | 2020-04-24 | [v1.8.1.2](https://d1s31zyz7dcc2d.cloudfront.net/cb0577f5f26d3a632ee65886c373e791/signed_FTVScreensaverApp-1.8.1.2.apk) | c96367cf34013df2155f96c54a443fd4 |
@@ -266,6 +273,7 @@
 |  | 2023-01-18 | [v1.0.971.0](https://d1s31zyz7dcc2d.cloudfront.net/4605a378e62b4c1c95dbae413adc147b/signed_GameHubAPK-tv-release-971.apk) | c4c692fc8fa21ff77d8a48b2333dbe3a |
 |  | 2023-02-12 | [v1.0.1221.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/8052348700f41a73ec35196a21610db0/signed_GameHubAPK-tv1221-release.apk) | 1d6af575fb7a8b809f6c82508276a77a |
 |  | 2023-04-07 | [v1.0.1676.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/b45ee43ccdc3978a1e222af578c1232f/signed_GameHubAPK-tv1676-release.apk) | 897eccf2a2fd94f854f08d5ed30ced72 |
+|  | 2023-10-24 | [v1.0.2585.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/465046a3591587d446e4626bf6536b7d/gh07-2585.0_1060610-GameHubAPK-tv-release-signed.apk) | 14ff3a6e63266905d679d91eb82235b9 |
 | Multimodal SmartHome | 2020-04-24 | [v1.0.203389.0](https://d1s31zyz7dcc2d.cloudfront.net/e46718fa32b84a84019283babb615c3a/SmartHomeGloria-mdpi-release-signed.apk) | fdd60897c284daf8a8eefb7364b5ce85 |
 |  | 2020-08-18 | [v1.0.204281.0](https://d1s31zyz7dcc2d.cloudfront.net/990ddb40f2184d3de8ef3f56861dbb6f/SmartHomeGloria-mdpi-release-signed.apk) | 19321b81b0515e45a4e953248c626d96 |
 |  | 2020-08-28 | [v1.0.204315.0](https://d1s31zyz7dcc2d.cloudfront.net/fbbba8af4cde8cf8f89398028eb3d01e/SmartHomeGloria-mdpi-release-signed.apk) | 499d490732d9d843249280914832675b |
@@ -282,6 +290,7 @@
 |  | 2023-03-17 | [v1.0.9250.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/3a3f05d9141264bc0e75679f8eaf52f9/signed_HedwigNews-release_HF3_1.0.9250.0_11654310.apk) | 586d09352ede38e83728347a082520e6 |
 |  | 2023-04-23 | [v1.0.9825.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/74f7dafb638721ba123c0c39d86daac8/signed_HedwigNews-release_rollback_9825.apk) | c1cdd5fea1285929dfad1a9997ea0c35 |
 |  | 2023-05-18 | [v1.0.9965.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/6f5789d46c84e216628dc9e341591bc3/signed_Podium-FC-R2-QA-E2E-Test-release-v47.apk) | 71dd172c423bd9bece032e6625ce04b2 |
+|  | 2023-10-24 | [v1.0.11296.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/25030e46f18609b63e198e78f8ccbf4d/signed_HedwigNews-release_v44.apk) | e6d990df13f1c6069f7a85930d7883e2 |
 | IMDb TV | 2020-09-03 | [v1.0.3100.0](https://d1s31zyz7dcc2d.cloudfront.net/f12f9f4e1791eeb3c283e1968760d1f4/ImdbTvAndroidApp-release-signed-1.0.3100.0.apk) | f024f72c75d4965187bbebaabe51376e |
 |  | 2020-10-06 | [v1.0.3222.0](https://d1s31zyz7dcc2d.cloudfront.net/90d6fba19e92b74786910510b9ac922a/ImdbTvAndroidApp-prod-release-signed.apk) | e2bb4f414b8addd900154b8c00a83f04 |
 |  | 2020-10-31 | [v1.0.3343.0](https://d1s31zyz7dcc2d.cloudfront.net/5bf9fd68e313668667b8b2ff07426bd3/ImdbTvAndroidApp-prod-release-signed.apk) | 10a88d463b74fd00097424bb5408e1bb |
@@ -317,6 +326,7 @@
 |  | 2023-06-08 | [v1.0.13062.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/db7473a77ae2c8ed1e80349cab5cb4a2/signed-app-RC-prod-may-release-1.0.13062.0.apk) | 20f3f4f70625ab70b83334ad40e8c6f0 |
 |  | 2023-06-09 | [v1.0.13063.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/9a16136727b0f47464866ccacaabdee3/signed-app-RC-prod-April-Rollback-release-1.0.13063.0.apk) | 540653ee428d37f840d1640ca26c4b67 |
 |  | 2023-07-01 | [v1.0.13145.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/d22eae596647ae36bed63a109e1b3e9a/signed-app-RC-prod-may-patch-release-1.0.13145.0.apk) | 86301979538de7d57c0339c1ac18d253 |
+|  | 2023-10-24 | [v1.0.14154.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/8a9c1c95c73db9eab179de70c23aa668/signed_app-prod-release_1.0.14154.0.apk) | 74c1fac66bbfa77ac597d5bca2db7b4a |
 | Katoch | 2019-10-12 | [v1.0.200137.0](https://d1s31zyz7dcc2d.cloudfront.net/017999dec976fc0c8b7aea2b06ce23e5/DeviceFortification-release-signed.apk) | 9e115f65deda8fd69bdb5795072d0394 |
 | KSO | 2020-04-24 | [v7.5.242.0](https://d1s31zyz7dcc2d.cloudfront.net/4c360e81cf43ea959ca08c7d21825e86/signed_KsoBlackbird-fireOs-release.apk) | 27cdd9325ae21659c731b7572935d0bd |
 |  | 2020-12-15 | [v7.5.514.0](https://d1s31zyz7dcc2d.cloudfront.net/a21447684fa1c636ad997709dfb22adb/KsoBlackbird-fireOs-release-signed-diablo-514.apk) | ee793bc3b43eef1dfad6f8be1fcb196e |
@@ -367,6 +377,7 @@
 |  | 2023-03-28 | [v3.0.203942.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/f90f939f6d573979566a34ee372ad99f/MShopAndroidTV3PClient-release-signed-release0317.apk) | 996b406f0bfe62af70cce969a84a3a86 |
 |  | 2023-04-14 | [v3.0.203958.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/0b62eba1c83ea655092204083e878276/MShopAndroidTV3PClient-release-signed-release0405.apk) | 4c977e79b3413ee2201054ff94e6c51f |
 |  | 2023-06-07 | [v3.0.204061.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/f7ec4af42820e7a706a0108ae35c8f83/MShopAndroidTV3PClient-release-signed-0601release.apk) | d1c908c8bd20a4074c4c6be8ce8f26af |
+|  | 2023-10-24 | [v3.0.204166.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/0413f56740da8dfe4eeaae02f29b73fb/MShopAndroidTV3PClient-release-signed-release1017.apk) | 6aae6248ebb0dec7daf130b4b8dcfab2 |
 | SSDP | 2020-08-25 | [v1.0.100038.00](https://d1s31zyz7dcc2d.cloudfront.net/d85b442ead72895d09b92f0def98c3bb/SsdpService.apk) | 2c6b0b3bf8e6968f5853f44e4f3655ff |
 |  | 2022-11-17 | [v1.0.100053.00](https://d1s31zyz7dcc2d.cloudfront.net/ac6746f4f1364d8d9a1346cc1114660c/SsdpService.apk) | e27ecb0f81a23020db36d9e0d1ed6598 |
 |  | 2023-01-05 | [v1.0.100053.00](https://prod.ota-cloudfront.net/ac6746f4f1364d8d9a1346cc1114660c/SsdpService.apk) | e27ecb0f81a23020db36d9e0d1ed6598 |
@@ -390,11 +401,13 @@
 |  | 2023-07-01 | [v3.21](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2e1091a1dbfc3528b6f2811dfc849e68/signed_FreeTimeFTVApp-release-VN-3.21_Build-1.0.225701.0.12779-VC-321001310_RaisinBranPlus.apk) | 0c245d37adfdaa669ccb37352d578eef |
 | Fire TV Alexa Alerts | 2020-04-24 | [v1.0.200774.0](https://d1s31zyz7dcc2d.cloudfront.net/7a5f5f41f620358e86a42e0502a1e0c9/signed_FireTvAlexaAlerts-nonStark-release.apk) | dd7c5deecba356ad300011d2c3e43034 |
 |  | 2023-02-17 | [v1.0.201470.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/e6d13742e99be1cd66bbd26a15ed4940/signed_FireTvAlexaAlerts-nonStark-release_1.apk) | f64578dd6d6c421dc7e301baf112d45c |
+|  | 2023-10-24 | [v1.0.201598.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/ac39597a3239b5e4b663abf4c9d9f0e4/FireTvAlexaAlerts-nonStark-release.apk) | f8c2477e97da19d36fd9c21a2c692a30 |
 | ClientRenderer | 2023-02-17 | [v1.3](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/8a452aa24a7cde6fc0a17cc9d8fca2be/FXPArc-release_500.apk) | c53e982a2ef64770abca9708b5e6bb57 |
 |  | 2023-03-02 | [v1.3](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/f27846912aaf65c2b3d685344b587660/FXPArc-release_103050210.apk) | 1006025dc626729c8ce8583bd0a913b3 |
 |  | 2023-04-07 | [v1.3](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/e7968ebc0c83d02c190c68fa491fafe2/FXPArc-release1.apk) | 55bff8a0c10eb44ea68dcfda46188b90 |
 | CS App Fire TV | 2023-02-17 | [v7.0.77.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/868de86918ce7ed442b8f364f9183dc2/signed_CSAppFireTV-jarvis-release-7.0.77.0.apk) | 103778b74ea3c1320f7c19e26ec14539 |
 | Developer Tools Menu | 2023-05-16 | [v1.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2cf517b4a9082fb549c01dc6c2566bf6/com.amazon.tv.developer.dataservice_1000801510.apk) | d9656935a95c031c84760391f5d2e0fa |
+|  | 2023-10-24 | [v1.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/17cdeae8807b0a72bf6b38d60a9c1700/com.amazon.tv.developer.dataservice_B3_1001213010.apk) | 3970d74dddb8f7a382466b6b08133fef |
 | Fire TV Device Control | 2020-04-24 | [v1.0.205629.0](https://d1s31zyz7dcc2d.cloudfront.net/e661f32627f5debe793ac481105925fa/FireTV_DeviceControl-release-signed.apk) | aab789f6e2c8ac72eff5db7a420e810b |
 |  | 2020-09-03 | [v1.0.207983.0](https://d1s31zyz7dcc2d.cloudfront.net/7dfab9016a594f5ed01f1f62621cdc60/FireTV_DeviceControl-release-signed_3.apk) | 906c598a3a8286664d9b013cfd93e23a |
 |  | 2020-11-17 | [v1.0.208262.0](https://d1s31zyz7dcc2d.cloudfront.net/01881a928032410e5a2308445a1068a2/FireTV_DeviceControl-release-signed_5.apk) | 5ff261fde62be81394eb6bdac7d41d0a |
@@ -447,6 +460,7 @@
 |  | 2023-03-08 | [v6430207.1](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/32c470b38fc7c3dfba806acdf180e91d/FireTvLauncher-release_5.apk) | 683458db95cb9fbd8ab09bd8d73b1040 |
 |  | 2023-04-07 | [v6440287.1](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/4b90349d3f04389eccb4d6e4aaadf426/FireTvLauncher-release_644028710.apk) | 7455741ffafc75521fda551c58cd78b1 |
 |  | 2023-05-15 | [v6450027.1](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/3ce5b235e3287102bcd1bfa0166985d2/R3_hotfix_launcher_6450027.apk) | b2f3ff9f2ca1a2530fcffe167b2d3cd5 |
+|  | 2023-10-24 | [v6470105.1](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/bd385cce7a88b5a917a42a420d035cd7/R6_Launcher_6470105.apk) | fbbfe80147c08102db0a9d25e81ad080 |
 | Live TV | 2020-04-24 | [v2.0.210839.0](https://d1s31zyz7dcc2d.cloudfront.net/38fef46c7c7a3dea7f7b35cd83938a76/31.apk) | 4154292916d318f77412762159054fd8 |
 |  | 2020-10-08 | [v2.0.213906.0](https://d1s31zyz7dcc2d.cloudfront.net/35e056896a4c0d24e75ea32c1c9d6941/com.amazon.tv.livetv5.apk) | b8011a795ca884440fa555b8c9c98eba |
 |  | 2021-01-07 | [v2.0.214799.0](https://d1s31zyz7dcc2d.cloudfront.net/a5887261512d8c951123506a1aa759b2/com.amazon.tv.livetv24.apk) | 9d15265ffc94f5cff9c98d8adb162a1d |
@@ -502,6 +516,7 @@
 |  | 2023-01-05 | [v1.0.6670.0](https://prod.ota-cloudfront.net/067fc81e364b91e409e2514369a13ac3/signed_FireTvSettings-jarvis-release1.0.6670.0_ota_release.apk) | cd6b9ff7327e3876a7557e6042034914 |
 |  | 2023-05-16 | [v1.0.7980.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2364f7c6b590acd2bdd9a80bbf67eec4/signed_FireTvSettings-jarvis-release_1.0.7980.0.apk) | e48fe2f726fbad76791eb33346cdd904 |
 |  | 2023-07-01 | [v1.0.8260.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/72bd15c4946cfa658f9ad1d990e5a0ab/signed_FireTvSettings-jarvis-release_1.0.8260.0.apk) | f4bbb9c8e2c9b59e4c554529143990dc |
+|  | 2023-10-24 | [v1.0.8947.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/0d2145b9f8d258e4ca8b431088024e02/signed_FireTvSettings-jarvis-release_1.0.8947.0_RNfixlatest.apk) | 9d439951f0d229ed49a554504fa887cc |
 | TV Support | 2023-03-30 | [v6240001.1](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/c9e37129965873a01aae633e09a581cb/signed_FireTvAIVProxy-release.apk) | 44dd78ad33366dfb7425d0f64a705bb6 |
 | Turnstile | 2020-10-13 | [v1010017.1](https://d1s31zyz7dcc2d.cloudfront.net/70db40b7d5b5a8a6e858adbd07f5bfd0/com.amazon.tv.turnstile.apk) | fab486658e0ee345241978b186d986c8 |
 |  | 2020-12-07 | [v1020002.1](https://d1s31zyz7dcc2d.cloudfront.net/bbbccac6323d50eeb7427c595938edc3/com.amazon.tv.turnstile.apk) | fcce729b58c9323be4507fdd78b328d8 |
@@ -531,6 +546,7 @@
 |  | 2023-04-04 | [v8.5017.5](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/3473b9a482d88ed610df4ac231391b5c/5.v.x.220811.0.apk) | f7d270e3b8633ed13c975cf2b96dd579 |
 |  | 2023-05-16 | [v8.5019.5](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/9f6cf96990c6a825cfb8d80fdebcb5da/A5-preLD-signed.apk) | c6a255d9b74e56fc6dfaf24efa1d24fb |
 |  | 2023-07-01 | [v8.5020.5](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/26fdfce2920ef2cb6ee2267628377179/5.v.x.221977.0A6.apk) | b27c485dc539309490f2d6500bab358e |
+|  | 2023-10-24 | [v8.5025.5](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/984c9af9d860b2ba065d50adbdaf05c4/FOS6-7-5.v.x.224420.0.apk) | 535114f00e60e25c505f8aaf467ab9fa |
 | Alexa | 2020-04-24 | [v2.0.5200.0](https://d1s31zyz7dcc2d.cloudfront.net/b834d67787f072b205f3cacbe9a65642/signed_com.amazon.vizzini.apk) | a6b91b74ff2a83e142300d644a1ef192 |
 |  | 2020-08-14 | [v2.0.7584.0](https://d1s31zyz7dcc2d.cloudfront.net/76bae4e73dd5a83159643b6cec77763b/signed_com.amazon.vizzini.apk) | 48caa565591ce7cda9a2e21e0a271452 |
 |  | 2020-09-03 | [v2.0.7764.0](https://d1s31zyz7dcc2d.cloudfront.net/761bc9b3774c3ff66b5338af342eb001/signed_com.amazon.vizzini.apk) | 3d8c991ea143e8a6770175400bf32796 |
@@ -558,6 +574,7 @@
 |  | 2023-03-24 | [v3.0.5503.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/d288fce082a64825adce315f3b0d09bb/signed_com.amazon.vizzini_648_HF.apk) | 20acba12855585a22663620da5ea9789 |
 |  | 2023-05-15 | [v3.0.6468.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/d13f148ec99a7fadf8aee420c01405ed/signed_com.amazon.vizzini_1.apk) | 1fa82e020b1620d71963ff33da0b26c2 |
 |  | 2023-06-09 | [v3.0.6824.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/fdc45939e87995de5a0a53b985d89709/signed_com.amazon.vizzini_648_1_2.apk) | cec5a13d1a57bc40eff51242840b48ff |
+|  | 2023-10-24 | [v3.0.8068.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/57911ee61e226a880a2c350fe878356b/signed_com.amazon.vizzini10.apk) | 901dbb77fc659e0c4f0000acc03365f0 |
 | Chromium | 2020-09-03 | [v75-206-3770.143.217](https://d1s31zyz7dcc2d.cloudfront.net/04d053037f9b5879a20c882a19a7fccb/AmazonWebView-release-32-signed.apk) | 795a7de431c1eb3e69d664f81f9452c1 |
 |  | 2020-11-11 | [v84-154-Bulbasaur.4147.111.176](https://d1s31zyz7dcc2d.cloudfront.net/c04c95d571e503ea9b2f7f531426a988/AmazonWebView-release-32-signed.apk) | 1e1092f446977dab916d911c37dded41 |
 |  | 2021-01-22 | [v84-187-Ivysaur.4147.111.190](https://d1s31zyz7dcc2d.cloudfront.net/3a47fbb7a412933152208355556abcf1/AmazonWebView-release-32-signed_1.apk) | 70752a11ad99c89b50b355e8380bf8d7 |
