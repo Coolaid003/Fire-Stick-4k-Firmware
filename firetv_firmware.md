@@ -547,6 +547,7 @@
 |  | 2023-05-16 | [v8.5019.5](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/9f6cf96990c6a825cfb8d80fdebcb5da/A5-preLD-signed.apk) | c6a255d9b74e56fc6dfaf24efa1d24fb |
 |  | 2023-07-01 | [v8.5020.5](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/26fdfce2920ef2cb6ee2267628377179/5.v.x.221977.0A6.apk) | b27c485dc539309490f2d6500bab358e |
 |  | 2023-10-24 | [v8.5025.5](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/984c9af9d860b2ba065d50adbdaf05c4/FOS6-7-5.v.x.224420.0.apk) | 535114f00e60e25c505f8aaf467ab9fa |
+|  | 2023-11-08 | [v8.5025.5](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2e936e2a93592214495f6c1447b0ce49/MASClientNapkinAPK-ftv-release-signed-5.v.x.224699.0.apk) | 2edb204a37a01a0be8551e60fb53a0e3 |
 | Alexa | 2020-04-24 | [v2.0.5200.0](https://d1s31zyz7dcc2d.cloudfront.net/b834d67787f072b205f3cacbe9a65642/signed_com.amazon.vizzini.apk) | a6b91b74ff2a83e142300d644a1ef192 |
 |  | 2020-08-14 | [v2.0.7584.0](https://d1s31zyz7dcc2d.cloudfront.net/76bae4e73dd5a83159643b6cec77763b/signed_com.amazon.vizzini.apk) | 48caa565591ce7cda9a2e21e0a271452 |
 |  | 2020-09-03 | [v2.0.7764.0](https://d1s31zyz7dcc2d.cloudfront.net/761bc9b3774c3ff66b5338af342eb001/signed_com.amazon.vizzini.apk) | 3d8c991ea143e8a6770175400bf32796 |
