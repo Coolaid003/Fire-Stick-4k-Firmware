@@ -133,6 +133,7 @@
 |  | 2023-10-24 | [v356.505601](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/fe865172a255ca314722c658af1cf325/com.amazon.avod.apk) | ceb1955049651d838393a2e3f3b80ea4 |
 |  | 2023-11-08 | [v358.501901](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/167d3c10e952c9b265bbdb369ef5b6b2/com.amazon.avod.apk) | b3a826562cf1811923f1db34f5660287 |
 |  | 2023-11-30 | [v359.503901](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/9fb9022ac759fbb12d799966b9ac222a/com.amazon.avod.apk) | 6cebe614a9d693e522968edf82e42b31 |
+|  | 2023-12-04 | [v359.504401](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/fdd1ee6f5b5a99ef7f08b27cf494f04d/com.amazon.avod.apk) | 0bcfe7057f7ab109f19045d1efcef434 |
 | Amazon Music | 2020-08-28 | [v3.3.446.0](https://d1s31zyz7dcc2d.cloudfront.net/35d445c8d5d707e0cfc17432c9fc3607/signed_DMTVAndroid-firetv-prod-release.apk) | 7d9ed8bf24523d633c8ec1f33da86bb0 |
 |  | 2020-10-22 | [v3.3.486.0](https://d1s31zyz7dcc2d.cloudfront.net/45b1eb952dbdab61dc944ea743f98af7/signed_DMTVAndroid-firetv-prod-arm32-release_3_3_486_0.apk) | eb54e884966d3ab12b2318267505ce73 |
 |  | 2020-12-10 | [v3.3.581.0](https://d1s31zyz7dcc2d.cloudfront.net/588a9854a6974ba4a80aa4c2c5a5f1db/signed_DMTVAndroid-firetv-prod-arm32-release_335810.apk) | f638102d312e20323b8b501904493c31 |
@@ -182,6 +183,7 @@
 |  | 2022-06-02 | [v100.2.23.4896.162.30](https://d1s31zyz7dcc2d.cloudfront.net/f7777e31885ed37c5c4a89b84a78c116/signed_slate_fire_tv_v100_2_23_arm.apk) | ae127b40efc2e051ac5b57dac924493a |
 |  | 2023-10-24 | [v116.6.1.5845.229.30](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/d63b37440b774bc967491e947f845556/signed_slate_fire_tv_v116_6_1_arm.apk) | b85af4754419d94cdf1cfe861c179d42 |
 |  | 2023-11-30 | [v118.1.84.5993.111.30](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/28477ac25408bf6edb8953c1e416a80f/signed_slate_fire_tv_v118_1_84_arm.apk) | eef2723ad5279394fe2d89af361a533a |
+|  | 2023-12-04 | [v118.2.12.5993.155.30](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/0584003e709032ca0c27021bfd5a801e/signed_slate_fire_tv_v118_2_12_arm.apk) | 354c9ace81ede795117f0fbb7a41e719 |
 | Common Speech | 2020-04-24 | [v0.8.30.0](https://d1s31zyz7dcc2d.cloudfront.net/9bf668894c0825e6da95a3e7e4291ad8/CommonSpeechMiddleware_HtmlRuntime-release-signed.apk) | 1679beb13555107f218a4034472ce191 |
 |  | 2020-10-09 | [v1.1.27.0](https://d1s31zyz7dcc2d.cloudfront.net/76673cc9445351928ccb0103e826ce70/signed_CommonSpeechMiddleware_HtmlRuntime-release.apk) | d0702a0703369983f1dd99ee397614e9 |
 |  | 2021-01-22 | [v1.1.73.0](https://d1s31zyz7dcc2d.cloudfront.net/83b12df0c9efe8f892faf0454bd1103c/signed_1234910.apk) | 0a694c5ce73c1b46e108d980f39468e8 |
@@ -621,3 +623,4 @@
 |  | 2023-03-08 | [v108.amazon-webview-v108-5359-tv.5359.160.86](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/3b29cf7f8b7020dd00a9b17db19ab8b7/signed_AmazonWebView-debug-32-signed.apk) | f7baf7c77bf8b3df8d69b354b50cd004 |
 |  | 2023-05-15 | [v110.amazon-webview-v110-5481-tv.5481.154.25](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/4e9306f3c84e3f67aa9eb28f186e87bb/signed_AmazonWebView-debug-signed.apk) | df19c72a40a2133b73f2664fd11da121 |
 |  | 2023-11-08 | [v114.amazon-webview-v114-5735-tv.5735.220.73](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/ae1f26f325e36eca4437798f5ef0a848/signed_AmazonWebView-debug-32-signed.apk) | 9fe3edd55b903febc473b8d2ab677b71 |
+|  | 2023-12-04 | [v116.amazon-webview-v116-5845-tv.5845.229.64](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/e171213c71a19078af5bea307be4046b/signed_AmazonWebView-debug-signed.apk) | 04781d62149a2dce53487fc4ac047972 |
