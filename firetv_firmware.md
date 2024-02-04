@@ -260,6 +260,7 @@
 |  | 2023-12-16 | [v71.0138](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/646ce974f6edaa998714eeaa0bb61e3a/Firebat-livingRoom-release-signed_71013810.apk) | 064f17b264174c31cfce01f4ea6499b5 |
 |  | 2024-01-21 | [v72.0190](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/1/11/bb91651f-547e-49dd-b8de-0d63dccaa1c0/1704942852233-Firebat-livingRoom-release-signed_72019010.apk) | 055a078a6fa904449de532143203a675 |
 |  | 2024-01-30 | [v73.0100](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/1/29/43ae03ef-09fd-46b9-b78a-0d2848a69977/1706555956468-Firebat-livingRoom-release-signed_73010010.apk) | 877243759d89bd87ded12de27ec33a16 |
+|  | 2024-02-04 | [v73.0104](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/2/1/25bec522-7fd3-4911-8e63-de8d74a26d5f/1706818099843-Firebat-livingRoom-release-signed_73010410.apk) | 2a09a1fccf595b7b653f62d5c04b90a6 |
 | Gloria | 2020-04-24 | [v1.0.201462.0](https://d1s31zyz7dcc2d.cloudfront.net/6ba9a31b4a1df897c4101738852b3b43/com.amazon.ftv.glorialist.apk) | 2e1942c6666b91b64bbb442bd12a6d4e |
 | Profile Picker | 2021-09-21 | [v1.0.3](https://d1s31zyz7dcc2d.cloudfront.net/7ab2174d0210d78b0f193cf0eef6af19/com.amazon.ftv.profilepicker_1030016.apk) | d3eb57065a1448d47c41ba4e51e252f8 |
 | Screensaver | 2020-04-24 | [v1.8.1.2](https://d1s31zyz7dcc2d.cloudfront.net/cb0577f5f26d3a632ee65886c373e791/signed_FTVScreensaverApp-1.8.1.2.apk) | c96367cf34013df2155f96c54a443fd4 |
@@ -622,6 +623,7 @@
 |  | 2023-10-24 | [v3.0.8068.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/57911ee61e226a880a2c350fe878356b/signed_com.amazon.vizzini10.apk) | 901dbb77fc659e0c4f0000acc03365f0 |
 |  | 2023-11-08 | [v3.0.8639.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/fca5230a10a16e876aa2b58d8b851057/signed_3.0.8639.0-com.amazon.vizzini.650.2.0_650820010.apk) | 5720983b707e2ab60c90b68275ee91eb |
 |  | 2023-11-30 | [v3.0.9041.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/0e8065a7b8bc040318abd23f26cd7349/signed_com.amazon.vizzini_651_0_1_11_13.apk) | 63fa92ce794bcaeb4316c7a2cbbf07bb |
+|  | 2024-02-04 | [v3.0.9336.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2023/12/15/daf8d33e-24b3-4363-908b-8e63a2ac07fa/1702610819584-FTVSIM-3.0.9336.apk) | 962be6823eba339f7ebe3e67c97d5851 |
 | Chromium | 2020-09-03 | [v75-206-3770.143.217](https://d1s31zyz7dcc2d.cloudfront.net/04d053037f9b5879a20c882a19a7fccb/AmazonWebView-release-32-signed.apk) | 795a7de431c1eb3e69d664f81f9452c1 |
 |  | 2020-11-11 | [v84-154-Bulbasaur.4147.111.176](https://d1s31zyz7dcc2d.cloudfront.net/c04c95d571e503ea9b2f7f531426a988/AmazonWebView-release-32-signed.apk) | 1e1092f446977dab916d911c37dded41 |
 |  | 2021-01-22 | [v84-187-Ivysaur.4147.111.190](https://d1s31zyz7dcc2d.cloudfront.net/3a47fbb7a412933152208355556abcf1/AmazonWebView-release-32-signed_1.apk) | 70752a11ad99c89b50b355e8380bf8d7 |
