@@ -535,6 +535,7 @@
 |  | 2023-02-17 | [v1.0.7718.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/6bbcbf75a40ffca2d25e602c7ff9c44c/signed_FireTvOobe-jarvis-release1.0.7718.0.apk) | 88ee6ab7772c4784b036835b600cc335 |
 |  | 2023-05-14 | [v1.0.8774.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/dd1c5caa0c7d48f6b6464161c0ca0212/signed_FireTvOobe-jarvis-release-8774.apk) | 19ec5d5b5fd3d71b354606cd08100ee8 |
 |  | 2023-07-01 | [v1.0.9342.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/cf17a2bb96d24fb63a977bfddb0db28b/signed_FireTvOobe-jarvis-release-9342.apk) | 67238a702b28bb7de7b1e9c2e866d99a |
+|  | 2024-02-04 | [v1.0.10881.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/78617dac6216cf62a0c96af43afa864f/signed_FireTvOobe-jarvis-release_10881.apk) | 407c5d4e2b8e6243199040a60898aeed |
 | Ott Sso Companion App | 2020-04-24 | [v1.0](https://d1s31zyz7dcc2d.cloudfront.net/aaa109d081daf440158d4bf71f794ae6/TO_PROD_app-tv-release-signed.apk) | ce6ea5fd63c312c80daa34ede2f987e1 |
 | Parental Controls | 2020-10-16 | [v1.0.565.0](https://d1s31zyz7dcc2d.cloudfront.net/bf8b61fa4e2ebe2c5f4c9d8179e072c2/signed_FireTvParentalControls-release6.apk) | caef692203c3f9cf533a005f8fc594de |
 |  | 2020-12-16 | [v1.0.630.0](https://d1s31zyz7dcc2d.cloudfront.net/c955501769edded1667b05ead17273f8/signed_FireTvParentalControls-release.apk) | b90769ce19967711e2e3f55175cd4e43 |
@@ -590,6 +591,7 @@
 |  | 2023-10-24 | [v8.5025.5](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/984c9af9d860b2ba065d50adbdaf05c4/FOS6-7-5.v.x.224420.0.apk) | 535114f00e60e25c505f8aaf467ab9fa |
 |  | 2023-11-08 | [v8.5025.5](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2e936e2a93592214495f6c1447b0ce49/MASClientNapkinAPK-ftv-release-signed-5.v.x.224699.0.apk) | 2edb204a37a01a0be8551e60fb53a0e3 |
 |  | 2023-11-30 | [v8.5026.5](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/9273950a6bd65a54ef0a38b79914eb8a/5.v.x.224777.0_ftv_signed_A10latest.apk) | 9f3c8a416d61694aeb10bff5f0fdbae7 |
+|  | 2024-02-04 | [v8.5026.5](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/1/4/24ba8464-344f-4128-ab83-15e872dac70d/1704360357341-MASClientNapkinAPK-ftv-release-signed_5.v.x.225230.0.apk) | d40caa0bac6b9d75cd499ec27d9e6510 |
 | Alexa | 2020-04-24 | [v2.0.5200.0](https://d1s31zyz7dcc2d.cloudfront.net/b834d67787f072b205f3cacbe9a65642/signed_com.amazon.vizzini.apk) | a6b91b74ff2a83e142300d644a1ef192 |
 |  | 2020-08-14 | [v2.0.7584.0](https://d1s31zyz7dcc2d.cloudfront.net/76bae4e73dd5a83159643b6cec77763b/signed_com.amazon.vizzini.apk) | 48caa565591ce7cda9a2e21e0a271452 |
 |  | 2020-09-03 | [v2.0.7764.0](https://d1s31zyz7dcc2d.cloudfront.net/761bc9b3774c3ff66b5338af342eb001/signed_com.amazon.vizzini.apk) | 3d8c991ea143e8a6770175400bf32796 |
