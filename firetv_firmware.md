@@ -603,6 +603,7 @@
 |  | 2023-11-08 | [v8.5025.5](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2e936e2a93592214495f6c1447b0ce49/MASClientNapkinAPK-ftv-release-signed-5.v.x.224699.0.apk) | 2edb204a37a01a0be8551e60fb53a0e3 |
 |  | 2023-11-30 | [v8.5026.5](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/9273950a6bd65a54ef0a38b79914eb8a/5.v.x.224777.0_ftv_signed_A10latest.apk) | 9f3c8a416d61694aeb10bff5f0fdbae7 |
 |  | 2024-02-04 | [v8.5026.5](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/1/4/24ba8464-344f-4128-ab83-15e872dac70d/1704360357341-MASClientNapkinAPK-ftv-release-signed_5.v.x.225230.0.apk) | d40caa0bac6b9d75cd499ec27d9e6510 |
+|  | 2024-03-04 | [v8.5029.5](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/2/15/e4bd6df2-0141-4f08-a72f-09f03d1c34d1/1708002822841-AR1_GM_5.v.x.225700.0_FTV.apk) | e7fd925ed5e21ec1fc0087f0af8ac999 |
 | Alexa | 2020-04-24 | [v2.0.5200.0](https://d1s31zyz7dcc2d.cloudfront.net/b834d67787f072b205f3cacbe9a65642/signed_com.amazon.vizzini.apk) | a6b91b74ff2a83e142300d644a1ef192 |
 |  | 2020-08-14 | [v2.0.7584.0](https://d1s31zyz7dcc2d.cloudfront.net/76bae4e73dd5a83159643b6cec77763b/signed_com.amazon.vizzini.apk) | 48caa565591ce7cda9a2e21e0a271452 |
 |  | 2020-09-03 | [v2.0.7764.0](https://d1s31zyz7dcc2d.cloudfront.net/761bc9b3774c3ff66b5338af342eb001/signed_com.amazon.vizzini.apk) | 3d8c991ea143e8a6770175400bf32796 |
