@@ -36,6 +36,7 @@
 | 2023-10-24 | Fire OS 6.7.0.0 (NS6700/4872) | [update-kindle-mantis-NS6700_user_4872_0009631369348.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/f9f39daa95c86f3a4647adbc7bb62612/update-kindle-mantis-NS6700_user_4872_0009631369348.bin) | 7f0bec1a7e501920fe753e3f9eb07d8f |
 | 2024-02-04 | Fire OS 6.7.0.1 (NS6701/4985) | [update-kindle-mantis-NS6701_user_4985_0009832724868.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2023/12/26/c88c021c-d58a-49e8-8241-d1db9046dd09/update-kindle-mantis-NS6701_user_4985_0009832724868.bin) | aec2634c697014e4e7104670a970c91d |
 | 2024-03-04 | Fire OS 6.7.0.2 (NS6702/5093) | [update-kindle-mantis-NS6702_user_5093_0010034079108.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/2/1/8dfc5e57-2993-4b1b-9bf2-fb5e31910317/update-kindle-mantis-NS6702_user_5093_0010034079108.bin) | 236fc2a685a31e536e31a527bf1a8135 |
+| 2024-03-28 | Fire OS 6.7.0.3 (NS6703/5183) | [update-kindle-mantis-NS6703_user_5183_0010235428740.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/28/aab893f4-27ec-4449-b15b-f06f9df90c05/update-kindle-mantis-NS6703_user_5183_0010235428740.bin) | aec2634c697014e4e7104670a970c91d |
 
 **Stock apps**
 ================================
@@ -144,6 +145,7 @@
 |  | 2024-03-14 | [v364.502301](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/2/27/ad6638d5-647e-48a9-ba87-bc80505660bf/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_364502310.apk) | cef397d06a5ebc8f67e144f867f9d2ee |
 |  | 2024-03-15 | [v365.501901](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/11/b8c1d097-664d-44de-9f1b-ad8884e30b8f/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_365501910.apk) | 0577a1fb704334fa4c91e35fcb96d604 |
 |  | 2024-03-23 | [v365.502101](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/21/68fa98a6-acb4-48a7-9b67-42c31897a26f/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_365502110.apk) | 7218b66b8d56091b6054f144f65629ae |
+|  | 2024-04-16 | [v367.502801](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/11/ee54febf-ff7d-4981-90ad-969ae6dc1477/1712864799985-com.amazon.avod.apk) | 1419d7a1e508279abb0adc0c06e70c66 |
 | Amazon Music | 2020-08-28 | [v3.3.446.0](https://d1s31zyz7dcc2d.cloudfront.net/35d445c8d5d707e0cfc17432c9fc3607/signed_DMTVAndroid-firetv-prod-release.apk) | 7d9ed8bf24523d633c8ec1f33da86bb0 |
 |  | 2020-10-22 | [v3.3.486.0](https://d1s31zyz7dcc2d.cloudfront.net/45b1eb952dbdab61dc944ea743f98af7/signed_DMTVAndroid-firetv-prod-arm32-release_3_3_486_0.apk) | eb54e884966d3ab12b2318267505ce73 |
 |  | 2020-12-10 | [v3.3.581.0](https://d1s31zyz7dcc2d.cloudfront.net/588a9854a6974ba4a80aa4c2c5a5f1db/signed_DMTVAndroid-firetv-prod-arm32-release_335810.apk) | f638102d312e20323b8b501904493c31 |
@@ -277,6 +279,7 @@
 |  | 2024-03-14 | [v76.0130](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/8/69a6f6fd-8ab4-4eed-bd9b-08e6aa3857cd/1709870210252-Firebat-livingRoom-release-signed_76013010.apk) | a9a5f4d1d39330ecf918cd7d83aaa418 |
 |  | 2024-03-22 | [v77.0098](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/16/b9fdc76d-3597-408d-b110-917b1055bba0/1710548985792-Firebat-livingRoom-release-signed_77009810.apk) | a46b7e77b24ad4f49d7f894755ba80b9 |
 |  | 2024-04-06 | [v78.0082](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/5/b598ea15-953c-44a8-9bb0-88103c43950d/1712353433600-Firebat-livingRoom-release-signed_78008210.apk) | 6303891d2c94e17667e244876d92917c |
+|  | 2024-04-12 | [v78.0084](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/12/2398e053-594d-4608-b23a-1465f1f5b6ad/1712901729862-Firebat-livingRoom-release-signed_78008410.apk) | 340270bb68d0dd5ca0c665bf1b6f7182 |
 | Gloria | 2020-04-24 | [v1.0.201462.0](https://d1s31zyz7dcc2d.cloudfront.net/6ba9a31b4a1df897c4101738852b3b43/com.amazon.ftv.glorialist.apk) | 2e1942c6666b91b64bbb442bd12a6d4e |
 | Profile Picker | 2021-09-21 | [v1.0.3](https://d1s31zyz7dcc2d.cloudfront.net/7ab2174d0210d78b0f193cf0eef6af19/com.amazon.ftv.profilepicker_1030016.apk) | d3eb57065a1448d47c41ba4e51e252f8 |
 | Screensaver | 2020-04-24 | [v1.8.1.2](https://d1s31zyz7dcc2d.cloudfront.net/cb0577f5f26d3a632ee65886c373e791/signed_FTVScreensaverApp-1.8.1.2.apk) | c96367cf34013df2155f96c54a443fd4 |
@@ -451,6 +454,7 @@
 |  | 2023-11-30 | [v3.23](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2023/10/25/0500c56b-9691-4040-a6b7-3d2676a9ec23/signed_FreeTimeFTVApp-release-VN-3.23_Build-1.0.226457.0.13389-VC-323014910.apk) | 5fcb12e67c94b01bb5223ae08db94aa8 |
 |  | 2023-12-05 | [v3.24](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2023/11/15/230e98f2-c966-4f4e-9d1f-0e643a6cbfd2/signed_FreeTimeFTVApp-release-VN-3.24_Build-1.0.226516.0.13444-VC-324002210.apk) | 491e8b4b724343b6a86b27ea40c610a2 |
 |  | 2024-02-13 | [v3.26](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/2/7/7e94f18c-0144-4f3c-a38c-a770450e824a/signed_FreeTimeFTVApp-release-VN-3.26_Build-1.0.226846.0.13681-VC-326000610.apk) | ac7e26f6aa0389caccca98e90acf37c3 |
+|  | 2024-04-16 | [v3.29](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/3/7c11a8cf-8288-45f5-a36b-4708aad85479/signed_FreeTimeFTVApp-release-VN-3.29_Build-1.0.227138.0.13905-VC-329004410.apk) | 9682646afc81298429409d265c1c53f2 |
 | Fire TV Alexa Alerts | 2020-04-24 | [v1.0.200774.0](https://d1s31zyz7dcc2d.cloudfront.net/7a5f5f41f620358e86a42e0502a1e0c9/signed_FireTvAlexaAlerts-nonStark-release.apk) | dd7c5deecba356ad300011d2c3e43034 |
 |  | 2023-02-17 | [v1.0.201470.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/e6d13742e99be1cd66bbd26a15ed4940/signed_FireTvAlexaAlerts-nonStark-release_1.apk) | f64578dd6d6c421dc7e301baf112d45c |
 |  | 2023-10-24 | [v1.0.201598.0](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/ac39597a3239b5e4b663abf4c9d9f0e4/FireTvAlexaAlerts-nonStark-release.apk) | f8c2477e97da19d36fd9c21a2c692a30 |
