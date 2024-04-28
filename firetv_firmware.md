@@ -280,6 +280,8 @@
 |  | 2024-03-22 | [v77.0098](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/16/b9fdc76d-3597-408d-b110-917b1055bba0/1710548985792-Firebat-livingRoom-release-signed_77009810.apk) | a46b7e77b24ad4f49d7f894755ba80b9 |
 |  | 2024-04-06 | [v78.0082](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/5/b598ea15-953c-44a8-9bb0-88103c43950d/1712353433600-Firebat-livingRoom-release-signed_78008210.apk) | 6303891d2c94e17667e244876d92917c |
 |  | 2024-04-12 | [v78.0084](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/12/2398e053-594d-4608-b23a-1465f1f5b6ad/1712901729862-Firebat-livingRoom-release-signed_78008410.apk) | 340270bb68d0dd5ca0c665bf1b6f7182 |
+|  | 2024-04-19 | [v79.0078](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/12/e4e61bfc-ca3a-4248-996d-c6c4b954a6d6/1712881114439-Firebat-livingRoom-release-signed_79007810.apk) | 746693ebd9001ced765904aac1b2cdce |
+|  | 2024-04-26 | [v79.0080](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/26/9e197ecf-f5e4-47b1-b18a-98a9b7c92679/1714163635787-Firebat-livingRoom-release-signed_79008010.apk) | c47109383d475b6b8d14e80544125919 |
 | Gloria | 2020-04-24 | [v1.0.201462.0](https://d1s31zyz7dcc2d.cloudfront.net/6ba9a31b4a1df897c4101738852b3b43/com.amazon.ftv.glorialist.apk) | 2e1942c6666b91b64bbb442bd12a6d4e |
 | Profile Picker | 2021-09-21 | [v1.0.3](https://d1s31zyz7dcc2d.cloudfront.net/7ab2174d0210d78b0f193cf0eef6af19/com.amazon.ftv.profilepicker_1030016.apk) | d3eb57065a1448d47c41ba4e51e252f8 |
 | Screensaver | 2020-04-24 | [v1.8.1.2](https://d1s31zyz7dcc2d.cloudfront.net/cb0577f5f26d3a632ee65886c373e791/signed_FTVScreensaverApp-1.8.1.2.apk) | c96367cf34013df2155f96c54a443fd4 |
