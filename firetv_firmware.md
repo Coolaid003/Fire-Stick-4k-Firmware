@@ -37,6 +37,7 @@
 | 2024-02-04 | Fire OS 6.7.0.1 (NS6701/4985) | [update-kindle-mantis-NS6701_user_4985_0009832724868.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2023/12/26/c88c021c-d58a-49e8-8241-d1db9046dd09/update-kindle-mantis-NS6701_user_4985_0009832724868.bin) | aec2634c697014e4e7104670a970c91d |
 | 2024-03-04 | Fire OS 6.7.0.2 (NS6702/5093) | [update-kindle-mantis-NS6702_user_5093_0010034079108.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/2/1/8dfc5e57-2993-4b1b-9bf2-fb5e31910317/update-kindle-mantis-NS6702_user_5093_0010034079108.bin) | 236fc2a685a31e536e31a527bf1a8135 |
 | 2024-03-28 | Fire OS 6.7.0.3 (NS6703/5183) | [update-kindle-mantis-NS6703_user_5183_0010235428740.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/28/aab893f4-27ec-4449-b15b-f06f9df90c05/update-kindle-mantis-NS6703_user_5183_0010235428740.bin) | 4f85f24813b059a1a6aa7537e8b47241 |
+| 2024-05-09 | Fire OS 6.7.0.4 (NS6704/5281) | [update-kindle-mantis-NS6704_user_5281_0010436780420.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/9/132d298a-046c-4025-800f-a3fc5a6f6ab5/update-kindle-mantis-NS6704_user_5281_0010436780420.bin) | dfca03a8d44584fcc7cfdad62111b3ee |
 
 **Stock apps**
 ================================
@@ -146,6 +147,7 @@
 |  | 2024-03-15 | [v365.501901](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/11/b8c1d097-664d-44de-9f1b-ad8884e30b8f/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_365501910.apk) | 0577a1fb704334fa4c91e35fcb96d604 |
 |  | 2024-03-23 | [v365.502101](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/21/68fa98a6-acb4-48a7-9b67-42c31897a26f/ATVAndroidFireTvClient-armeabi-v7a-release-prodSigned_365502110.apk) | 7218b66b8d56091b6054f144f65629ae |
 |  | 2024-04-16 | [v367.502801](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/11/ee54febf-ff7d-4981-90ad-969ae6dc1477/1712864799985-com.amazon.avod.apk) | 1419d7a1e508279abb0adc0c06e70c66 |
+|  | 2024-05-01 | [v368.501701](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/4/26/6de32451-a084-4372-a29a-0ca74654ca8c/1714110787324-com.amazon.avod.apk) | 5a0014e480fec7eb2b758230ee86382d |
 | Amazon Music | 2020-08-28 | [v3.3.446.0](https://d1s31zyz7dcc2d.cloudfront.net/35d445c8d5d707e0cfc17432c9fc3607/signed_DMTVAndroid-firetv-prod-release.apk) | 7d9ed8bf24523d633c8ec1f33da86bb0 |
 |  | 2020-10-22 | [v3.3.486.0](https://d1s31zyz7dcc2d.cloudfront.net/45b1eb952dbdab61dc944ea743f98af7/signed_DMTVAndroid-firetv-prod-arm32-release_3_3_486_0.apk) | eb54e884966d3ab12b2318267505ce73 |
 |  | 2020-12-10 | [v3.3.581.0](https://d1s31zyz7dcc2d.cloudfront.net/588a9854a6974ba4a80aa4c2c5a5f1db/signed_DMTVAndroid-firetv-prod-arm32-release_335810.apk) | f638102d312e20323b8b501904493c31 |
