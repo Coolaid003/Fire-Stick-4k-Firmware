@@ -38,6 +38,7 @@
 | 2024-03-04 | Fire OS 6.7.0.2 (NS6702/5093) | [update-kindle-mantis-NS6702_user_5093_0010034079108.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/2/1/8dfc5e57-2993-4b1b-9bf2-fb5e31910317/update-kindle-mantis-NS6702_user_5093_0010034079108.bin) | 236fc2a685a31e536e31a527bf1a8135 |
 | 2024-03-28 | Fire OS 6.7.0.3 (NS6703/5183) | [update-kindle-mantis-NS6703_user_5183_0010235428740.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/3/28/aab893f4-27ec-4449-b15b-f06f9df90c05/update-kindle-mantis-NS6703_user_5183_0010235428740.bin) | 4f85f24813b059a1a6aa7537e8b47241 |
 | 2024-05-09 | Fire OS 6.7.0.4 (NS6704/5281) | [update-kindle-mantis-NS6704_user_5281_0010436780420.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/9/132d298a-046c-4025-800f-a3fc5a6f6ab5/update-kindle-mantis-NS6704_user_5281_0010436780420.bin) | dfca03a8d44584fcc7cfdad62111b3ee |
+| 2024-07-07 | Fire OS 6.7.0.5 (NS6705/5380) | [update-kindle-mantis-NS6705_user_5380_0010772350084.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/8/b8cae64d-42e1-4106-a4ff-79674be4a285/update-kindle-mantis-NS6705_user_5380_0010772350084.bin) | 55282d508acdce4f111d7114c7400130 |
 
 **Stock apps**
 ================================
